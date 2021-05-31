@@ -1,0 +1,8 @@
+runs/
+__pycache__/
+literature/
+.ipynb_checkpoints/
+pdfs/
+
+*.pickle
+*.csv
